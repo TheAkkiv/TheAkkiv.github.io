@@ -287,5 +287,8 @@ footer{
 	flex-wrap: wrap;
 }
 
-
+video{
+	display: block;
+	margin: 0 auto;
+}
 	
